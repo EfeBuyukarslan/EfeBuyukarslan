@@ -1,6 +1,6 @@
-# Hi, I'm Efe Büyükarslan 👋
+# Hi, I'm Efe Büyükarslan 
 
-**Industrial and Mechanical Engineering Graduate | Passionate about machine learning, image processing, data analytics.
+Industrial and Mechanical Engineering Graduate | Passionate about machine learning, image processing, and data analytics.
 
 ## Skills
 - **Programming:** Python, SQL, JavaScript, R
