@@ -21,7 +21,7 @@ Converting bookmaker odds into implied probabilities, removing the bookmaker's m
 **[Event-Driven Analysis of Soccer Game Dynamics](https://github.com/EfeBuyukarslan/Event-Driven-Analysis-of-Soccer-Game-Dynamics)**
 Statistical process control applied to live match metrics: rolling 15-minute control charts with 3-sigma limits to detect shifts in team attacking rates, then testing whether in-game events explain the detected out-of-control points.
 
-**[Solar Energy Production Forecasting](https://github.com/BU-IE-360/spring24-EfeBuyukarslan)**
+**[Solar Energy Production Forecasting](https://github.com/EfeBuyukarslan/Solar-Energy-Production-Forecasting)**
 Hourly solar plant output forecasting from weather variables in R. KPSS stationarity testing, differencing, ACF/PACF order selection, and ARIMA versus linear regression compared on BIC and residual diagnostics.
 
 ## Contact
