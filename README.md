@@ -7,5 +7,5 @@ Industrial and Mechanical Engineering Graduate | Passionate about machine learni
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## Contact Info
-- [LinkedIn](linkedin.com/in/efe-büyükarslan-72028b235)
+- [LinkedIn](linkedin.com/in/efe-buyukarslan)
 - Email: buyukarslanefe@gmail.com
